@@ -4,7 +4,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:3978",
+      "applicationUrl": "http://localhost:3971",
       "sslPort": 0
     }
   },
@@ -19,7 +19,7 @@
     "Bot.Streaming": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:3979;http://localhost:3978",
+      "applicationUrl": "https://localhost:3970;http://localhost:3971",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
